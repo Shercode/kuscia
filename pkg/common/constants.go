@@ -193,6 +193,7 @@ const (
 	DomainDataSourceTypeOSS            = "oss"
 	DomainDataSourceTypeMysql          = "mysql"
 	DefaultDomainDataSourceLocalFSPath = "var/storage/data"
+	DefaultModelLocalFSPath            = "var/storage/data"
 )
 
 type RunModeType = string
